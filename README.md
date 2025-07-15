@@ -1,4 +1,4 @@
-RAG-Enabled Customer Support Data Pipeline
+SupportIQ - RAG-Enabled Customer Support Data Pipeline
 This project builds an end-to-end data pipeline to ingest, process, and analyze customer support tickets. It leverages Natural Language Processing (NLP) for classification and sentiment analysis and implements a Retrieval-Augmented Generation (RAG) system to allow users to ask questions over historical ticket data.
 
 🧩 Problem Statement
